@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Sveltegram</title>
+	<title>Shallow Routing</title>
 </svelte:head>
 
 
